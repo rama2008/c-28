@@ -1,0 +1,3 @@
+function attach() {
+    setBodyA=body;
+}
